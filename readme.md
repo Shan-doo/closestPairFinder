@@ -1,0 +1,1 @@
+An app for finding the closest pair of points in a system of coordinates. Inspired by the programming assignments from https://github.com/karan/Projects. Built using Vue.js.
